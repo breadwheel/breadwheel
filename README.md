@@ -1,16 +1,8 @@
-<h1 align="left">Hey! I'm @breadwheel</h1>
+<h1 align="left">Breadwheel</h1>
 
 ###
 
 <p align="left">I use this account mainly for personal projects, but who knows? I might collaborate on something interesting in the future!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Making mistakes since: 2006<br>📚 I'm currently learning: Java (OOP), 3D Modeling<br>🎯 Goals:<br> - Master the Fundamentals<br> - Write Clean, Readable Code<br> - Keep learning & having fun!<br>🎲 Fun fact: I enjoy TTRPGs</p>
 
 ###
 
