@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I use this account mainly for personal projects, but who knows? I might collaborate on something interesting in the future!</p>
+<p align="left">I use this account mainly for personal projects, but who knows? I might collaborate on something interesting in the future</p>
 
 ###
 
